@@ -1676,3 +1676,51 @@ input, select, textarea {
 		.major{
 			color: green;
 		}
+		.pro2{
+			color: Green;
+			font-size: 40px;
+			
+		}
+		.major2{
+			color: gold;
+		}
+		.workp{
+			color: gold;
+			font-size: 40px;
+		}
+		.major3{
+			color: dodgerblue;
+		}
+
+		.about{
+
+			color: dodgerblue;
+			font-size: 40px;
+		}
+
+		h1{
+			color: gold;
+		}
+
+		ul{
+			color: gold;
+		}
+		.logo{
+			color: gold;
+			
+		}
+		.port{
+			color: gold;
+		}
+		.cre{
+
+			color: gold;
+		}
+		.copyright{
+			color:gold
+		}
+
+		.major4{
+			color: white;
+		}
+	
